@@ -1,6 +1,6 @@
 # 2019.11.23 DevOps Agile + CI + CD + 실습
 
-la viva diva!!!
+la viva diva!!!A
 
 ---
 
